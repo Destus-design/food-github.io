@@ -1,1 +1,1 @@
-# food-github.io
+# food
